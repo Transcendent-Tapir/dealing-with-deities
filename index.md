@@ -1,3 +1,6 @@
+---
+title: Dealing with Deities
+---
 <script> if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) { jtd.setTheme('dark') } </script> 
 
 # Dealing with Deities
