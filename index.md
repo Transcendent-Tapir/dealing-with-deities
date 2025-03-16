@@ -1,3 +1,5 @@
+<script> if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) { jtd.setTheme('dark') } </script> 
+
 # Dealing with Deities
 
 A no-prep GMless card based role playing game about Dysfunctional Demigods.
