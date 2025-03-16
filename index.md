@@ -150,7 +150,7 @@ The Final Scene is one with all demigods present. It functions as a climax of th
 
 ### Epilogue
 
-We fast forward into the near future to check in on our demigods. Have each player describe how their demigod is doing based on how many power tokens they have after the final scene.
+We fast forward into the near future to check in on our demigods. Starting with the most popular player, have each player describe how their demigod is doing based on how many power tokens they have after the final scene.
 
 Power | Result
 -: | :-
